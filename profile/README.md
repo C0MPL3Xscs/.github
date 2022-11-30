@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Main Logo](https://github.com/C0MP-CODE/.github/blob/main/profile/banner.png?raw=true)
 # Welcome to C0MP.CODE
 ***We Code Random things, open source, and do custom jobs***
