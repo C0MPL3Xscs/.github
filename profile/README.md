@@ -7,7 +7,7 @@
  - Make and release unique and high quality software
  - Keep as much of it as simple as possible
  
-### Coding Lenguages we know
+### Coding Languages we know
 ```py
 print("We know python")
 ```
